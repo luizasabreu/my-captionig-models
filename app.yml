@@ -1,0 +1,7 @@
+runtime: python38
+
+#instance_class: F4_1G
+
+#basic_scaling:
+ # max_instances: 4
+  #idle_timeout: 10m
